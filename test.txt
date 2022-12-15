@@ -1,0 +1,19 @@
+ls
+mkdir
+cd 
+git init
+git status
+git commit
+git pull 
+git push
+git merge
+git remove
+git rebase
+git branch
+git checkout <branchname>
+git log
+git diff
+git rm
+git -d
+
+and much sir
